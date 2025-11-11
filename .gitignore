@@ -1,0 +1,13 @@
+# Buf generated files
+buf.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
